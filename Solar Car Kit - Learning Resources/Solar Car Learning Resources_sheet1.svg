@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="297mm"
+   height="210mm"
+   id="svg631"
+   sodipodi:docname="Solar Car Teachers Resources_sheet1.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview633"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="0.5222371"
+     inkscape:cx="272.86457"
+     inkscape:cy="618.49302"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg631"
+     showguides="true"
+     inkscape:document-units="mm" />
+  <defs
+     id="defs547">
+    <rect
+       x="373.39359"
+       y="-267.12003"
+       width="139.78325"
+       height="174.25035"
+       id="rect7112" />
+    <rect
+       x="20.105808"
+       y="-344.67102"
+       width="379.13812"
+       height="161.80389"
+       id="rect7082" />
+    <rect
+       x="455.6358"
+       y="81.380653"
+       width="336.23639"
+       height="63.189686"
+       id="rect7052" />
+    <rect
+       x="-790.73346"
+       y="-27.079912"
+       width="340.41724"
+       height="285.79492"
+       id="rect3175" />
+    <marker
+       style="overflow:visible"
+       id="marker2166"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606599"
+       markerHeight="6.7071061"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path2164"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow1"
+       markerWidth="4.0606604"
+       markerHeight="6.7071066"
+       viewBox="0 0 4.0606602 6.7071068"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:butt"
+         d="M 3,-3 0,0 3,3"
+         id="path5057"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc" />
+    </marker>
+    <linearGradient
+       id="grad1">
+      <stop
+         offset="0.0000%"
+         stop-color="#ffec00"
+         stop-opacity="1.0000"
+         id="stop539" />
+      <stop
+         offset="49.0000%"
+         stop-color="#ffec00"
+         stop-opacity="1.0000"
+         id="stop541" />
+      <stop
+         offset="100.0000%"
+         stop-color="#ffffff"
+         stop-opacity="1.0000"
+         id="stop543" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#grad1"
+       id="grad2"
+       x1="112.28693"
+       y1="38.844749"
+       x2="112.28693"
+       y2="148.77625"
+       gradientTransform="scale(0.55930196,1.787943)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <text
+     xml:space="preserve"
+     id="text7050"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;white-space:pre;shape-inside:url(#rect7052);display:inline;fill:#000000;stroke:none;stroke-width:2;stroke-dasharray:none" />
+  <path
+     d="M 33.1464,62.156053 V 343.59366 q 0,38.81892 39.193836,38.81892 H 507.14741 q 39.19383,0 39.19383,-38.81892 V 62.156053 q 0,-38.818919 -39.19383,-38.818919 H 72.340236 q -39.193836,0 -39.193836,38.818919 z"
+     style="fill:none;stroke:#e30016;stroke-width:10.66666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path490" />
+  <text
+     x="174.01498"
+     y="70.299698"
+     id="text494"
+     style="font-size:16.2652px;stroke-width:0.999999"
+     transform="scale(1.0048174,0.99520566)"><tspan
+       font-family="'Arial Black'"
+       font-size="34.5635px"
+       fill="#1b1918"
+       id="tspan492"
+       style="stroke-width:0.737772">Solar Power</tspan></text>
+  <text
+     x="666.25989"
+     y="67.571518"
+     id="text494-3"
+     style="font-size:16.2652px;stroke-width:0.999999"
+     transform="scale(1.0048174,0.99520566)"><tspan
+       font-family="'Arial Black'"
+       font-size="34.5635px"
+       fill="#1b1918"
+       id="tspan492-0"
+       style="stroke-width:0.737772">Wheels &amp; speed</tspan></text>
+  <text
+     x="149.07121"
+     y="452.7901"
+     id="text494-5"
+     style="font-size:16.2652px;stroke-width:0.999999"
+     transform="scale(1.0048174,0.99520566)"><tspan
+       font-family="'Arial Black'"
+       font-size="34.5635px"
+       fill="#1b1918"
+       id="tspan492-7"
+       style="stroke-width:0.737772">Friction &amp; Grip</tspan></text>
+  <text
+     x="614.93445"
+     y="454.71823"
+     id="text494-32"
+     style="font-size:16.2652px;stroke-width:0.999999"
+     transform="scale(1.0048174,0.99520566)"><tspan
+       font-family="'Arial Black'"
+       font-size="34.5635px"
+       fill="#1b1918"
+       id="tspan492-4"
+       style="stroke-width:0.737772">Direction</tspan></text>
+  <text
+     x="910.98706"
+     y="453.03033"
+     id="text494-0"
+     style="font-size:16.2652px;stroke-width:0.999999"
+     transform="scale(1.0048174,0.99520566)"><tspan
+       font-family="'Arial Black'"
+       font-size="34.5635px"
+       fill="#1b1918"
+       id="tspan492-1"
+       style="stroke-width:0.737772">Weight</tspan></text>
+  <path
+     d="M 179.74776,77.961771 V 393.50135 H 543.63884 V 77.961771 Z"
+     style="fill:none;stroke-width:0.999999"
+     id="path496" />
+  <path
+     d="M 584.14806,62.558709 V 343.99631 q 0,38.81892 39.19383,38.81892 h 434.80721 q 39.1938,0 39.1938,-38.81892 V 62.558709 q 0,-38.818919 -39.1938,-38.818919 H 623.34189 q -39.19383,0 -39.19383,38.818919 z"
+     style="fill:none;stroke:#e30016;stroke-width:10.66666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path498" />
+  <path
+     d="m 33.1464,448.20854 v 281.43747 q 0,38.81892 39.193836,38.81892 H 507.14741 q 39.19383,0 39.19383,-38.81892 V 448.20854 q 0,-38.81906 -39.19383,-38.81906 H 72.340236 q -39.193836,0 -39.193836,38.81906 z"
+     style="fill:none;stroke:#e30016;stroke-width:10.66666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path500" />
+  <path
+     d="m 862.74728,434.9113 v 308.83726 q 0,25.11902 25.36162,25.11902 h 183.8722 q 25.3618,0 25.3618,-25.11902 V 434.9113 q 0,-25.11916 -25.3618,-25.11916 H 888.1089 q -25.36162,0 -25.36162,25.11916 z"
+     style="fill:none;stroke:#e30016;stroke-width:10.66666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path504" />
+  <path
+     d="M 869.74898,459.02334 V 759.21098 H 1097.3428 V 459.02334 Z"
+     style="fill:none;stroke-width:0.999999"
+     id="path506" />
+  <path
+     d="m 588.00064,434.9113 v 308.83726 q 0,25.11902 25.36162,25.11902 H 797.2345 q 25.36176,0 25.36176,-25.11902 V 434.9113 q 0,-25.11916 -25.36176,-25.11916 H 613.36226 q -25.36162,0 -25.36162,25.11916 z"
+     style="fill:none;stroke:#e30016;stroke-width:10.66666667;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path508" />
+  <path
+     d="m 602.31451,462.77966 v 152.47623 h 211.1041 V 462.77966 Z"
+     style="fill:none;stroke-width:0.999999"
+     id="path510" />
+  <path
+     d="m 639.56026,205.42285 a 21.785521,21.577128 0 0 1 21.78552,21.57727 21.785521,21.577128 0 1 1 -21.78552,-21.57727 z"
+     style="fill:none;stroke:#1b1918;stroke-width:2.0001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path512" />
+  <path
+     d="m 639.56012,226.99998 v 21.57659"
+     style="fill:none;stroke:#1b1918;stroke-width:2.0001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path514" />
+  <path
+     d="M 639.55999,248.57657 H 776.37252"
+     style="fill:none;stroke:#1b1918;stroke-width:2.0001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path516" />
+  <path
+     d="m 776.37279,205.42285 a 21.785521,21.577128 0 0 1 21.78553,21.57727 21.785521,21.577128 0 1 1 -21.78553,-21.57727 z"
+     style="fill:none;stroke:#1b1918;stroke-width:2.0001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path518" />
+  <path
+     d="m 776.37252,226.99998 v 21.57659"
+     style="fill:none;stroke:#1b1918;stroke-width:2.0001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path520" />
+  <path
+     d="m 613.90255,209.91615 a 30.916789,30.621049 0 0 1 56.54821,15.82244"
+     style="fill:none;stroke:#1b1918;stroke-width:1.0001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2166)"
+     id="path522" />
+  <path
+     d="m 649.58879,274.14883 a 40.165459,39.781248 0 0 1 40.16546,39.78125 40.165459,39.781248 0 1 1 -40.16546,-39.78125 z"
+     style="fill:none;stroke:#1b1918;stroke-width:2.0001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path524" />
+  <path
+     d="m 649.58852,313.92981 v 39.78017"
+     style="fill:none;stroke:#1b1918;stroke-width:2.0001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path526" />
+  <path
+     d="M 649.58838,353.70998 H 901.82589"
+     style="fill:none;stroke:#1b1918;stroke-width:2.0001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path528" />
+  <path
+     d="m 901.82616,274.14883 a 40.165459,39.781248 0 0 1 40.16546,39.78125 40.165459,39.781248 0 1 1 -40.16546,-39.78125 z"
+     style="fill:none;stroke:#1b1918;stroke-width:2.0001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path530" />
+  <path
+     d="m 901.82589,313.92981 v 39.78017"
+     style="fill:none;stroke:#1b1918;stroke-width:2.0001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path532" />
+  <path
+     d="m 602.28434,282.4329 a 57.000387,56.455139 0 0 1 104.25662,29.17149"
+     style="fill:none;stroke:#1b1918;stroke-width:1.0001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-end:url(#marker2166)"
+     id="path534" />
+  <path
+     d="M 608.94896,72.002724 H 1066.8899 V 357.31338 H 947.3775 V 205.20662 H 608.94896 Z"
+     style="fill:none;stroke-width:0.999999"
+     id="path537" />
+  <g
+     id="g4049"
+     style="stroke-width:0.737772"
+     transform="matrix(1.3619611,0,0,1.348933,-11.609276,-7.7722291)">
+    <path
+       d="m 124.2872,247.64 a 73.2354,196.5512 0 0 1 -61.4849,0.4138 L 93.378,69.4522 Z"
+       style="fill:url(#grad2);stroke-width:0.737772"
+       id="path549" />
+    <path
+       d="m 68.5188,84.1494 c 0,4.9547 11.1296,8.9713 24.859,8.9713 13.7293,0 24.859,-4.0166 24.859,-8.9713 L 105.5044,69.4522 H 81.2517 Z"
+       style="fill:#b1b3b4;fill-rule:evenodd;stroke:#1b1918;stroke-width:0.737846;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path551" />
+    <path
+       d="m 59.4241,150.8023 v 6.0633 h 64.8765 v -6.0633 z"
+       style="fill:#102a83;fill-rule:evenodd;stroke:#1b1918;stroke-width:0.737846;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path553" />
+    <path
+       d="m 62.1524,246.6011 v 6.0633 h 64.8766 v -6.0633 z"
+       style="fill:#102a83;fill-rule:evenodd;stroke:#1b1918;stroke-width:0.737846;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path555" />
+    <path
+       d="M 73.3694,144.1327 V 95.0207"
+       style="fill:none;stroke:#1b1918;stroke-width:1.47562;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-start:url(#marker2166);marker-end:url(#marker2166)"
+       id="path557" />
+    <path
+       d="M 51.5418,241.1442 V 94.1114"
+       style="fill:none;stroke:#1b1918;stroke-width:1.47554;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;marker-start:url(#Arrow1);marker-end:url(#marker2166)"
+       id="path559" />
+  </g>
+  <g
+     id="g9470"
+     style="stroke-width:0.737772"
+     transform="matrix(1.3619611,0,0,1.348933,-11.609276,-7.7722291)">
+    <g
+       id="Layer1001"
+       style="stroke-width:0.737772">
+      <path
+         d="m 217.3433,560.4123 -3.7859,-7.4983 113.2431,-57.175 3.7858,7.4984 z"
+         style="fill:none;stroke:#1b1918;stroke-width:0.737846;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path561" />
+      <path
+         d="m 211.5147,541.8735 57.0218,-22.1842"
+         style="fill:none;stroke:#1b1918;stroke-width:1.47562;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path563" />
+      <path
+         d="m 218.562,528.8793 a 9.6,9.6 0 0 1 12.8963,4.2429 9.6,9.6 0 1 1 -12.8963,-4.2429 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#1b1918;stroke-width:0.737846;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path565" />
+      <path
+         d="m 263.5418,516.1261 a 5.156,5.156 0 0 1 6.9264,2.2789 5.156,5.156 0 1 1 -6.9264,-2.2789 z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#1b1918;stroke-width:0.737846;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path567" />
+    </g>
+    <path
+       d="m 217.3433,560.4123 102.3463,0.0638"
+       style="fill:none;stroke:#1b1918;stroke-width:0.737846;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path570" />
+    <path
+       d="m 256.7645,560.4367 a 39.4213,39.4213 0 0 0 -4.2308,-17.7915 l -35.1904,17.7671 z"
+       style="fill:none;stroke:#1b1918;stroke-width:0.737846;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path572" />
+  </g>
+  <path
+     d="M 809.40164,705.77389 V 595.19267 H 673.25566 v 110.58122 z"
+     style="fill:none;stroke-width:0.999999"
+     id="path607" />
+  <text
+     xml:space="preserve"
+     id="text3173"
+     style="font-weight:bold;font-size:15.134px;line-height:1.05;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect3175);display:inline;fill:none;stroke:#000000;stroke-width:1.86091;stroke-dasharray:none"
+     x="-170.91992"
+     y="0"
+     transform="matrix(1.079919,0,0,1.0695889,1029.9439,111.38693)"><tspan
+       x="-790.73438"
+       y="-14.823428"
+       id="tspan3575"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3573">These cars use solar panels to convert light into
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="1.2053047"
+       id="tspan3579"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3577">electricity. The electricity is then converted into
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="17.234037"
+       id="tspan3583"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3581">mechanical motion through the motor.
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="33.262769"
+       id="tspan3587"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3585">You can test this using a bright light. Hold
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="49.291502"
+       id="tspan3591"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3589">the light far away from the solar panels and see
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="65.320234"
+       id="tspan3595"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3593">how fast the motor spins (if at all).
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="81.348966"
+       id="tspan3599"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3597">Gradually move the light closer to the solar
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="97.377698"
+       id="tspan3603"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3601">panels and watch the motor. It should start to
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="113.40643"
+       id="tspan3607"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3605">spin and then get quicker as the light is moved
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="129.43516"
+       id="tspan3611"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3609">closer. This can also be tested outdoors,
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="145.4639"
+       id="tspan3615"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3613">using your hands to shade the panels and then
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="161.49263"
+       id="tspan3619"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3617">gradually letting through more light.
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="177.52136"
+       id="tspan3623"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3621">
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="193.55009"
+       id="tspan3627"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3625">These cars use two solar panels. More area to
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="209.57882"
+       id="tspan3631"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3629">catch the light means more power available. You
+</tspan></tspan><tspan
+       x="-790.73438"
+       y="225.60756"
+       id="tspan3635"><tspan
+         style="font-weight:normal;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;fill:#000000;stroke:none"
+         id="tspan3633">can test this by covering on of the solar panels.</tspan></tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2652px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;white-space:pre;shape-inside:url(#rect6089);display:inline;fill:#000000;stroke:none;stroke-width:1.99999;stroke-dasharray:none"
+     x="615.29822"
+     y="-303.79749"
+     id="text5039"><tspan
+       x="601.27344"
+       y="93.723649"
+       id="tspan3637">There are a two different sized back wheels - large and small.
+</tspan><tspan
+       x="601.27344"
+       y="110.80211"
+       id="tspan3639">These will affect the speed of the car.
+</tspan><tspan
+       x="601.27344"
+       y="127.88057"
+       id="tspan3641">Larger wheels go further for each rotation, so a car with
+</tspan><tspan
+       x="601.27344"
+       y="144.95903"
+       id="tspan3643">larger wheels should go faster.
+</tspan><tspan
+       x="601.27344"
+       y="162.03749"
+       id="tspan3645">This can be tested by rolling each wheel one revolution along
+</tspan><tspan
+       x="601.27344"
+       y="179.11595"
+       id="tspan3647">the ground and marking how far they have gone.
+</tspan><tspan
+       x="971.90625"
+       y="196.19441"
+       id="tspan3649">
+</tspan><tspan
+       x="971.90625"
+       y="213.27287"
+       id="tspan3651">This only
+</tspan><tspan
+       x="971.90625"
+       y="230.35133"
+       id="tspan3653">matters for the
+</tspan><tspan
+       x="971.90625"
+       y="247.4298"
+       id="tspan3655">motorised
+</tspan><tspan
+       x="971.90625"
+       y="264.50826"
+       id="tspan3657">wheels - the
+</tspan><tspan
+       x="971.90625"
+       y="281.58672"
+       id="tspan3659">other wheels
+</tspan><tspan
+       x="971.90625"
+       y="298.66518"
+       id="tspan3661">do not affect
+</tspan><tspan
+       x="971.90625"
+       y="315.74364"
+       id="tspan3663">the speed.</tspan></text>
+  <path
+     id="rect6089"
+     style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999998;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     d="M 601.27386,80.698371 V 188.28106 H 971.90567 V 328.91523 H 1080.2546 V 223.35332 h 0.7447 V 80.698371 Z"
+     sodipodi:nodetypes="ccccccccc" />
+  <path
+     id="rect11789"
+     style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     d="M 62.277761,456.45118 V 625.04936 747.38073 H 175.83393 l 204.39844,-100.50415 140.55893,0.33447 0.98075,-190.75987 z"
+     sodipodi:nodetypes="cccccccc" />
+  <path
+     id="rect11789-1-6"
+     style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     d="m 602.99429,468.84946 v 131.06518 h 102.86264 v 96.16154 H 808.71957 V 599.91464 468.84946 H 705.85693 Z" />
+  <rect
+     style="font-variation-settings:normal;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
+     id="rect11789-1-6-8"
+     width="212.49472"
+     height="288.25467"
+     x="878.46259"
+     y="484.44565"
+     ry="0" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2652px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;white-space:pre;shape-inside:url(#rect11789);shape-padding:2.70799;display:inline;fill:#000000;stroke:none;stroke-width:1.99999;stroke-dasharray:none"
+     x="120.63486"
+     y="381.05295"
+     id="text12142"
+     transform="translate(1.5314582,-7.1111856)"><tspan
+       x="64.986328"
+       y="472.18263"
+       id="tspan3665">
+</tspan><tspan
+       x="64.986328"
+       y="489.26109"
+       id="tspan3667">A wheel with better grip will ensure the power is transferred to
+</tspan><tspan
+       x="64.986328"
+       y="506.33955"
+       id="tspan3669">moving forwards. The grip of a wheel depends upon the </tspan><tspan
+       x="64.986328"
+       y="523.41802"
+       id="tspan3671">surface of the road it is on and the surface of the wheel.
+</tspan><tspan
+       x="64.986328"
+       y="540.49648"
+       id="tspan3673"> 
+</tspan><tspan
+       x="64.986328"
+       y="557.57491"
+       id="tspan3675">You can test this by making the cars go up-hill on different </tspan><tspan
+       x="64.986328"
+       y="574.65334"
+       id="tspan3677">surfaces. Surfaces with better grip will be able to go up a </tspan><tspan
+       x="64.986328"
+       y="591.73177"
+       id="tspan3679">higher gradient. Try different surfaces from paper sheets to </tspan><tspan
+       x="64.986328"
+       y="608.8102"
+       id="tspan3681">wooden table to sheets of sandpaper.
+</tspan><tspan
+       x="64.986328"
+       y="625.88863"
+       id="tspan3683">Better grip means the car can drive up a steeper angle of hill.
+</tspan><tspan
+       x="64.986328"
+       y="642.96706"
+       id="tspan3685">
+</tspan><tspan
+       x="64.986328"
+       y="660.04549"
+       id="tspan3687">This is one reason why wheels have </tspan><tspan
+       x="64.986328"
+       y="677.12392"
+       id="tspan3689">rubber tyres, to ensure that the </tspan><tspan
+       x="64.986328"
+       y="694.20235"
+       id="tspan3691">wheel has a good grip to
+</tspan><tspan
+       x="64.986328"
+       y="711.28078"
+       id="tspan3693">the road surface.</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2652px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;white-space:pre;shape-inside:url(#rect11789-1-6);shape-padding:1.354;display:inline;fill:#000000;stroke:none;stroke-width:1.99999;stroke-dasharray:none"
+     x="450.37198"
+     y="399.48248"
+     id="text12142-0"
+     transform="translate(-1.0628361,-9.9449195)"><tspan
+       x="604.34766"
+       y="483.22756"
+       id="tspan3695">The direction of the motor
+</tspan><tspan
+       x="604.34766"
+       y="500.30602"
+       id="tspan3697">depends upon how it is
+</tspan><tspan
+       x="604.34766"
+       y="517.38448"
+       id="tspan3699">connected to the solar </tspan><tspan
+       x="604.34766"
+       y="534.46291"
+       id="tspan3701">panels.
+</tspan><tspan
+       x="604.34766"
+       y="551.54134"
+       id="tspan3703">Test this by swapping the
+</tspan><tspan
+       x="604.34766"
+       y="568.61977"
+       id="tspan3705">crocodile clips around
+</tspan><tspan
+       x="604.34766"
+       y="585.6982"
+       id="tspan3707">and seeing which direction
+</tspan><tspan
+       x="707.21094"
+       y="602.77663"
+       id="tspan3709">the wheels </tspan><tspan
+       x="707.21094"
+       y="619.85506"
+       id="tspan3711">spin. Also </tspan><tspan
+       x="707.21094"
+       y="636.93349"
+       id="tspan3713">check which </tspan><tspan
+       x="707.21094"
+       y="654.01192"
+       id="tspan3715">direction the </tspan><tspan
+       x="707.21094"
+       y="671.09035"
+       id="tspan3717">car moves.</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.2652px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;white-space:pre;shape-inside:url(#rect11789-1-6-8);display:inline;fill:#000000;stroke:none;stroke-width:1.9756;stroke-dasharray:none"
+     x="672.37042"
+     y="445.82349"
+     id="text12142-8"
+     transform="matrix(1,0,0,1.0248626,6.0695102e-8,-18.295853)"><tspan
+       x="878.46289"
+       y="497.46974"
+       id="tspan3719">The weight of the car affects
+</tspan><tspan
+       x="878.46289"
+       y="514.5482"
+       id="tspan3721">how fast it will go.
+</tspan><tspan
+       x="878.46289"
+       y="531.62666"
+       id="tspan3723">It will affect the acceleration
+</tspan><tspan
+       x="878.46289"
+       y="548.70509"
+       id="tspan3725">of the car, hence it will take
+</tspan><tspan
+       x="878.46289"
+       y="565.78352"
+       id="tspan3727">longer to get up to the same
+</tspan><tspan
+       x="878.46289"
+       y="582.86195"
+       id="tspan3729">speed.
+</tspan><tspan
+       x="878.46289"
+       y="599.94038"
+       id="tspan3731">
+</tspan><tspan
+       x="878.46289"
+       y="617.01881"
+       id="tspan3733">This can be tested by adding
+</tspan><tspan
+       x="878.46289"
+       y="634.09725"
+       id="tspan3735">weights to the top of the car
+</tspan><tspan
+       x="878.46289"
+       y="651.17568"
+       id="tspan3737">(being careful not to block </tspan><tspan
+       x="878.46289"
+       y="668.25411"
+       id="tspan3739">the solar panels) and then </tspan><tspan
+       x="878.46289"
+       y="685.33254"
+       id="tspan3741">timing how long it takes to go </tspan><tspan
+       x="878.46289"
+       y="702.41097"
+       id="tspan3743">a measured distance.
+</tspan><tspan
+       x="878.46289"
+       y="719.4894"
+       id="tspan3745">Try again with different
+</tspan><tspan
+       x="878.46289"
+       y="736.56783"
+       id="tspan3747">weights.</tspan></text>
+  <g
+     id="g1429"
+     transform="matrix(1.2994547,0,0,1.2870245,9.8060614,15.367652)"
+     style="stroke-width:0.773259">
+    <g
+       id="g1363"
+       transform="matrix(1.2132731,0,0,1.2132731,-97.357081,-103.67966)"
+       style="stroke-width:0.637335">
+      <path
+         style="color:#000000;fill:#1b1918;stroke-width:0.637335"
+         d="m 496.01348,553.39844 c 1.2506,0 2.2832,-1.0326 2.2832,-2.2832 l 0.002,-100.20703 h 0.002 c 0,-1.25061 -1.03251,-2.28321 -2.28321,-2.28321 h -15.77929 v 1 h -1 v 24.73047 c 0,0.1598 -0.12164,0.28125 -0.28125,0.28125 h -3.12305 c -0.1598,0 -0.28125,-0.12145 -0.28125,-0.28125 V 449.625 h -1.00195 v -1 h -15.7793 c -1.2507,0 -2.28125,1.0326 -2.28125,2.28321 l 0.004,100.20703 c -10e-6,1.2506 1.03064,2.2832 2.28125,2.2832 z m 0,-2 H 458.7752 c -0.1598,0 -0.28126,-0.12341 -0.28125,-0.2832 l -0.004,-100.20703 c 0,-0.1598 0.12155,-0.28321 0.28125,-0.28321 h 14.78125 v 23.73047 c 0,1.2506 1.03065,2.28125 2.28125,2.28125 h 3.12305 c 1.25058,0 2.28125,-1.03065 2.28125,-2.28125 V 450.625 h 14.77929 c 0.15915,0 0.28041,0.12422 0.28125,0.28321 l -0.002,100.20703 c 0,0.15979 -0.12341,0.2832 -0.2832,0.2832 z"
+         id="path574" />
+      <path
+         d="m 492.63332,541.07534 v -22.9031 q 0,-2.1512 -2.1512,-2.1512 h -26.1768 q -2.1512,0 -2.1512,2.1512 v 22.9031 q 0,2.1513 2.1512,2.1513 h 26.1768 q 2.1512,0 2.1512,-2.1513 z"
+         style="fill:#776ead;fill-rule:evenodd;stroke:#1b1918;stroke-width:1.27474;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path576" />
+      <path
+         d="m 492.63432,508.46334 v -22.9031 q 0,-2.1512 -2.1512,-2.1512 h -26.1768 q -2.1512,0 -2.1512,2.1512 v 22.9031 q 0,2.1513 2.1512,2.1513 h 26.1768 q 2.1512,0 2.1512,-2.1513 z"
+         style="fill:#776ead;fill-rule:evenodd;stroke:#1b1918;stroke-width:1.27474;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+         id="path578" />
+    </g>
+    <circle
+       style="fill:#999999;stroke:#000000;stroke-width:0.876769;stroke-dasharray:none"
+       id="path767"
+       cx="472.91058"
+       cy="560.53772"
+       r="2.7795277" />
+    <circle
+       style="fill:#999999;stroke:#000000;stroke-width:0.876769;stroke-dasharray:none"
+       id="path767-4"
+       cx="491.60349"
+       cy="560.53772"
+       r="2.7795277" />
+  </g>
+  <path
+     d="m 723.09281,715.95056 c 3.34797,20.18333 -10.03127,28.92808 -25.90339,32.26733 -11.65954,2.45299 -30.51205,2.90803 -35.96311,-1.92351"
+     style="fill:none;stroke:#00aa00;stroke-width:1.5001;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path581"
+     sodipodi:nodetypes="csc" />
+  <path
+     d="m 660.2819,747.77051 1.88882,-2.95227 -5.46457,-3.4296 -1.88882,2.95226 z"
+     style="fill:#008000;fill-rule:evenodd;stroke:#1b1918;stroke-width:0.5669;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path589" />
+  <path
+     d="m 655.28956,743.60278 0.94443,-1.47614 -5.51048,-3.45839 -0.94441,1.47612 z"
+     style="fill:#9b9d9f;fill-rule:evenodd;stroke:#1b1918;stroke-width:0.5669;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+     id="path591" />
+  <g
+     id="g1522"
+     transform="matrix(0.8121401,1.0828697,-1.0933282,0.80437142,900.38932,-268.22181)"
+     style="stroke-width:0.737772">
+    <path
+       d="m 510.44859,536.34805 c 34.96389,18.71732 -7.44143,71.56943 -23.94763,71.56943"
+       style="fill:none;fill-rule:evenodd;stroke:#ff6600;stroke-width:1.10673;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path583"
+       sodipodi:nodetypes="cc" />
+    <path
+       d="m 486.50096,609.21298 v -2.591 h -4.7501 v 2.591 z"
+       style="fill:#ff6600;fill-rule:evenodd;stroke:#1b1918;stroke-width:0.418243;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path585" />
+    <path
+       d="m 481.75086,608.56528 v -1.2955 h -4.7898 v 1.2955 z"
+       style="fill:#9b9d9f;fill-rule:evenodd;stroke:#1b1918;stroke-width:0.418243;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path587" />
+  </g>
+  <g
+     id="g1552"
+     transform="matrix(1.3619611,0,0,-1.348933,-24.456723,1420.7772)"
+     style="stroke-width:0.737772">
+    <path
+       d="m 548.8773,522.5068 v 26.2159 h 26.216 v -26.2159 z"
+       style="fill:none;stroke:#1b1918;stroke-width:0.737846;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path594" />
+    <path
+       d="m 555.0492,515.0832 v 36.9011 h 13.8725 v -36.9011 z"
+       style="fill:#1b1918;fill-rule:evenodd;stroke:#1b1918;stroke-width:0.418243;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path596" />
+    <path
+       d="M 597.222,541.6444 H 526.7485"
+       style="fill:none;stroke:#1b1918;stroke-width:2.21324;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path598" />
+    <path
+       d="m 543.6739,520.5068 v 2.9812 h 36.6226 v -2.9812 z"
+       style="fill:#1b1918;fill-rule:evenodd;stroke:#1b1918;stroke-width:0.418243;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none"
+       id="path600" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-size:21.6869px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;fill:#008000;stroke:none;stroke-width:1.13386;stroke-dasharray:none"
+     x="370.38876"
+     y="735.70551"
+     id="text18230"
+     transform="scale(1.0048174,0.99520566)"><tspan
+       sodipodi:role="line"
+       id="tspan18228"
+       x="370.38876"
+       y="735.70551"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.6869px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke-width:1.13386">Angle</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:21.6869px;line-height:1.05;font-family:Arial;-inkscape-font-specification:Arial;fill:#008000;stroke:none;stroke-width:1.13386;stroke-dasharray:none"
+     x="726.43689"
+     y="342.96085"
+     id="text18230-7"
+     transform="scale(1.0048174,0.99520566)"><tspan
+       sodipodi:role="line"
+       id="tspan18228-4"
+       x="726.43689"
+       y="342.96085"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.6869px;font-family:Arial;-inkscape-font-specification:'Arial Bold';fill:#000000;stroke-width:1.13386">Distance</tspan></text>
+</svg>
